@@ -11,6 +11,7 @@
   2. Introducción a ReactJS.
   3. Componentes.
   4. Envio de propiedades entre componentes.
+  5. _Hooks_.
 
 ---
 
