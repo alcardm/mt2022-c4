@@ -1,5 +1,7 @@
 # Ciclo 4A - Desarrollo De Aplicaciones Web
 
+NodeJS - ReactJS - ExpressJS - MongoDB
+
 ## Indice
 
 - Unidad 1
@@ -18,6 +20,13 @@
 
 - Unidad 3
   1. ExpressJS, NodeJS en el backend.
+  2. API Rest.
+
+## Recursos
+
+⚠ TODO recopilar todos los links de los scripts (agrupar por unidades).
+
+-[]()
 
 ---
 
