@@ -56,6 +56,35 @@ NodeJS - ReactJS - ExpressJS - MongoDB
   - [Express routing](https://expressjs.com/en/guide/routing.html)
   - [body-parser - npm](https://www.npmjs.com/package/body-parser)
 
+- Unidad 4
+
+  - [MongoDB Community Download | MongoDB](https://www.mongodb.com/try/download/community)
+
+## Links
+
+- Unidad 2
+
+  - [Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
+  - [DOM virtual y detalles de implementación](https://es.reactjs.org/docs/faq-internals.html)
+  - [Componentes y propiedades](https://es.reactjs.org/docs/components-and-props.html)
+  - [Un vistazo a los Hooks – React](https://es.reactjs.org/docs/hooks-overview.html#but-what-is-a-hook)
+
+- Unidad 3
+
+  - [Express 4.x - API Reference](https://expressjs.com/en/4x/api.html)
+  - [Web API Tutorial | Spotify for Developers](https://developer.spotify.com/documentation/web-api/quick-start/)
+  - [Representational state transfer](https://en.wikipedia.org/wiki/Representational_state_transfer)
+  - [¿Qué es una API y para qué sirve? - YouTube](https://www.youtube.com/watch?v=u2Ms34GE14U)
+  - [Anatomía de una petición a una API REST](https://errequeerre.es/anatomia-de-una-peticion-a-una-api-rest/)
+  - [HTTP response status codes - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+
+- Unidad 4
+
+  - [JSON and BSON](https://www.mongodb.com/json-and-bson)
+  - [$regex](https://www.mongodb.com/docs/manual/reference/operator/query/regex/)
+  - [Query and Projection Operators](https://www.mongodb.com/docs/manual/reference/operator/query/)
+  - [MongoDB CRUD Operations](https://www.mongodb.com/docs/manual/crud/)
+
 ---
 
 🖖
