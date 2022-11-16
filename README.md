@@ -37,7 +37,6 @@ NodeJS - ReactJS - ExpressJS - MongoDB
   - [Thunder Cliente](https://github.com/rangav/thunder-client-support/) extensión para Visual Studio Code, muy similar a Postman
   - [React Developer Tools by React](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/) para FireFox 🦊
   - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) para Chrome 🏐
-
   - [Axios](https://axios-http.com/docs/intro)
   - [gitignore.io](gitignore.io)
   - [Weather forecast - OpenWeatherMap](https://openweathermap.org)
