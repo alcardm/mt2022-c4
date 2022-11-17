@@ -25,6 +25,7 @@ NodeJS - ReactJS - ExpressJS - MongoDB
 
 - Unidad 4
   1. MongoDB.
+  2. MongoDB con ExpressJS, rutas.
 
 ## Recursos
 
@@ -59,6 +60,9 @@ NodeJS - ReactJS - ExpressJS - MongoDB
 - Unidad 4
 
   - [MongoDB Community Download | MongoDB](https://www.mongodb.com/try/download/community)
+  - [MongoDB NodeJS Driver](https://www.npmjs.com/package/mongodb)
+  - [body-parser - npm](https://www.npmjs.com/package/body-parser)
+  - [Quick Star - Node.js](https://www.mongodb.com/docs/drivers/node/current/quick-start/#connect-to-your-application) Connect to Your Application código para conectar ExpressJS con MongoDB
 
 ## Links
 
