@@ -25,7 +25,7 @@ NodeJS - ReactJS - ExpressJS - MongoDB
 
 - Unidad 4
   1. MongoDB.
-  2. MongoDB con ExpressJS, rutas.
+  2. Integración de MongoDB en el Backend.
 
 ---
 
