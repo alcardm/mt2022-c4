@@ -24,6 +24,7 @@
   - [$regex](https://www.mongodb.com/docs/manual/reference/operator/query/regex/)
   - [Query and Projection Operators](https://www.mongodb.com/docs/manual/reference/operator/query/)
   - [MongoDB CRUD Operations](https://www.mongodb.com/docs/manual/crud/)
+  - [Express.js res.sendFile() Function - GeeksforGeeks](https://www.geeksforgeeks.org/express-js-res-sendfile-function/)
 
 ## Recursos
 
