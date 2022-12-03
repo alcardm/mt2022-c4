@@ -22,10 +22,12 @@ NodeJS - ReactJS - ExpressJS - MongoDB
 
   1. ExpressJS, NodeJS en el backend.
   2. API Rest.
+  3. Variables de sesión.
 
 - Unidad 4
   1. MongoDB.
   2. Integración de MongoDB en el Backend.
+  3. Despligue en Mongo Atlas y Vercel.
 
 ---
 
